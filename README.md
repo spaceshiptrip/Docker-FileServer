@@ -1,8 +1,10 @@
-# Simple Docker Express Application
+# Simple Docker Express Serve-Index Application
 
 NOTE: This needs updating
 
-This is a simple example of a dockerized express web application.  It returns a message when the root location is hit.  
+This is a simple example of a dockerized express web application.  
+
+This displays the contents of the  /public directory.  You need to add the /public directory in your build.
 
 ## Install
 
