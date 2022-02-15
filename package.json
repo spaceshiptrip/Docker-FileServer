@@ -1,0 +1,7 @@
+{
+  "license": "UNLICENSED",
+  "dependencies": {
+    "express": "^4.17.1",
+    "serve-index": "^1.9.1"
+  }
+}
